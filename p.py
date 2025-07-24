@@ -1,0 +1,2 @@
+k="killer"
+print(k)
